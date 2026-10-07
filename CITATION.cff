@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "This repository contains the processing code of the CH-TAN ley 2024-25 flux product. If you use the data or the code, please cite the dataset as below."
+title: "Processing code for the CH-TAN ley 2024-25 flux product"
+type: software
+authors:
+  - family-names: Turco
+    given-names: Fabio
+    affiliation: "Grassland Sciences Group, ETH Zurich"
+  - family-names: Hörtnagl
+    given-names: Lukas
+    affiliation: "Grassland Sciences Group, ETH Zurich"
+# TODO: add ORCIDs (orcid: "https://orcid.org/0000-0000-0000-0000") and further authors
+repository-code: "https://github.com/fabioturc/dataset_ch-tan_ley_2024-25_flux_product"
+license: MIT
+keywords:
+  - eddy covariance
+  - nitrous oxide
+  - methane
+  - net ecosystem exchange
+  - grassland
+  - grass-legume ley
+  - plantain
+  - Swiss FluxNet
+  - CH-TAN
+preferred-citation:
+  type: dataset
+  title: "CH-TAN ley 2024-25 flux product: eddy covariance fluxes (CO2, H2O, H, LE, N2O, CH4), meteo and management of a grass-legume ley in Tänikon, Switzerland (August 2024 - June 2025)"
+  authors:
+    - family-names: Turco
+      given-names: Fabio
+      affiliation: "Grassland Sciences Group, ETH Zurich"
+    - family-names: Hörtnagl
+      given-names: Lukas
+      affiliation: "Grassland Sciences Group, ETH Zurich"
+  doi: "10.5281/zenodo.XXXXXXX"  # TODO: replace after Zenodo upload
+  url: "https://doi.org/10.5281/zenodo.XXXXXXX"
+  publisher:
+    name: Zenodo
+  year: 2026
+  license: CC-BY-4.0

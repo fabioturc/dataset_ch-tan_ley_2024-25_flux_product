@@ -1,0 +1,13 @@
+n_decay_linear
+n_decay_exponential
+n_decay_lognormal
+timesince_sowing
+wfps_0.05_gfXG_lag3h
+wfps_0.05_gfXG_lag9h
+wfps_0.15_gfXG_lag9h
+wfps_0.05_gfXG_lag3h_roll9hmean
+wfps_0.05_gfXG_lag6h_roll6hmean
+wfps_0.15_gfXG_lag3h_roll9hmean
+wfps_0.15_gfXG_lag6h_roll6hmean
+wfps_0.15_gfXG_lag9h_roll3hmean
+id
