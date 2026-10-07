@@ -160,7 +160,7 @@ A single notebook can also be run without opening it: `jupyter nbconvert --to no
 | `data/FLUXES/IRGA/*.csv`, `data/FLUXES/LGR/*.csv` | EddyPro (FLUXNET output) half-hourly fluxes | Swiss FluxNet, ETH Zurich |
 | `data/METEO/CH-TAN_meteo_gapfilled-meteoswiss_2024-25.csv` | Screened on-site meteo and soil data (30 min, TIMESTAMP_END), gaps in the meteo variables filled with data of MeteoSwiss station Tänikon (TAE) (`*_is_meteoswiss` flags) | Swiss FluxNet database; [MeteoSwiss Open Government Data](https://opendatadocs.meteoswiss.ch/) – source: MeteoSwiss |
 | `data/MANAGEMENT/CH-TAN_management_parcels.csv` | Management operations per parcel with N inputs | Swiss Future Farm, ETH Zurich |
-| `data/CANOPY/02-*_model.csv` | LAI, canopy height, above-ground biomass, crop N (mean and per parcel), 30 min; biomass and crop N end with the first cut (13 May 2025) | *TODO: describe origin (field measurements, interpolation)* |
+| `data/CANOPY/02-*_model.csv` | LAI, canopy height, above-ground biomass, crop N (mean and per parcel), 30 min; biomass and crop N end with the first cut (13 May 2025) | ETH Zurich |
 
 The raw files cover the whole station record (Oct 2023 – Jun 2025); the notebooks select the dataset period when reading them.
 
